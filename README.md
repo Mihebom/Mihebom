@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Redis Lite Clone](https://github.com/Mihebom/redis-clone)
+  - [Redis Lite Clone](https://github.com/Mihebom/RedisLiteClone)
    
   - [Visual-Kei Finder](https://github.com/Mihebom/redis-clone)
 
