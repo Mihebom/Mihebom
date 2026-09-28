@@ -4,7 +4,7 @@
 
   - [Redis Clone (Lite)](https://github.com/Mihebom/Redis-Lite)
    
-  - [Visual-Kei Finder](https://github.com/Mihebom/redis-clone)
+  - [Visual-Kei Finder](https://github.com/Mihebom/VisualKeiFinder)
 
 <h2> 📄 Certifications:</h2>
 
